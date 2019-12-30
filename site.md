@@ -9,3 +9,18 @@ https://polyglot-m.blogspot.com/2016/02/linux-mac-environment-variable-path.html
 
 # 메이커 만들기
 https://editor.freelogodesign.org/
+
+## Chorme Extention
+
+https://www.colorzilla.com/chrome/welcome/new/
+
+chrome-extension://giejhjebcalaheckengmchjekofhhmal/update.html#install
+
+## 유용한 사이트
+
+https://dribbble.com/
+
+https://dribbble.com/shots/2442798-Movie-Application/attachments/475341
+
+
+CSS Flex(Flexible Box) 완벽 가이드 - https://heropy.blog/2018/11/24/css-flexible-box/
