@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+안녕하세요.
+안미남입니다.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+여러가지 있습니다.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[minamhunmin@gmail.com](minamhunmin@gmail.com)
